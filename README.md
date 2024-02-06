@@ -1,4 +1,4 @@
-###👋 Oi gente
+### 👋 Oi gente
 
   Matheus aqui, sou desenvolvedor fullstack com foco em frontend tendo 4 anos atuando na area de dev, atualmente como freelancer, sou apaixonado pela area de desenvolvimento web onde tive experiencias com diversas linguagens, no momento estou me preparando para uma transição para a área mobile.
   Estou cursando faculdade de análise e desenvolvimento de sistemas e buscando uma nova oportunidade no mercado de programação.
